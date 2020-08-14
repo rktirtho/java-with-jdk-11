@@ -14,3 +14,8 @@ Content will be Covered
 7. Concurrency API improvements
 8. Java IO improvements
 9. Miscellaneous Core API improvements
+
+```
+	 FuncInterface fobj = (int x)->System.out.println(2*x); 
+  
+```
