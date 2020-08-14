@@ -1,4 +1,7 @@
 # java-with-jdk-11
+
+This course will covered all feature of JDK 8 and JDK 11
+
 Content will be Covered
 ===========================
 
