@@ -9,7 +9,7 @@ public class Lambda {
     numbers.add(1);
     numbers.forEach( (n) -> { System.out.println(n); } );
     
-    float a[] = {7,8.45f,7,98 ,4};
+    
     
     
   }
